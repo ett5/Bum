@@ -1,0 +1,16 @@
+.table {
+    
+   
+    display: flex;
+    margin: 1%;
+
+    }
+    td{
+        display: flex;
+
+
+
+        flex-wrap: wrap
+    }
+  
+  
